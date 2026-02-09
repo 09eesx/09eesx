@@ -70,12 +70,10 @@ Yapay zekayı yalnızca kod yazmak değil, **karmaşık sistemleri analiz edip a
 
 📊 GitHub İstatistikleri (Statik & Hızlı)
 <p align="center">
-<img src="./profile/stats.svg" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=09eesx&show_icons=true&theme=nord&hide_border=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09eesx&layout=compact&theme=nord&hide_border=true" />
 
-
-
-<img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 🐍 GitHub Contribution Snake
