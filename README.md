@@ -68,29 +68,20 @@ Yapay zekayı yalnızca kod yazmak değil, **karmaşık sistemleri analiz edip a
 
 ---
 
-## 📊 GitHub İstatistikleri
-
+## GitHub İstatistikleri
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=09eesx&show_icons=true&theme=nord&count_private=true&hide_border=true" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D09eesx%26show_icons%3Dtrue%26theme%3Dnord%26hide_border%3Dtrue" alt="Stats" />
 
 
 
 
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09eesx&layout=compact&theme=nord&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09eesx&layout=compact&theme=nord&hide_border=true" alt="Langs" />
 </p>
 
----
-
 ## 🐍 GitHub Contribution Snake
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/09eesx/09eesx/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
-
----
 
 ## 📫 Bağlantıda Kalalım
 
