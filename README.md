@@ -5,13 +5,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Merhaba,%20Ben%20Esma!%20🚀&fontSize=50&animation=fadeIn" 
-    alt="header"
-  />
-</p>
-
 ```yaml
 esma:
   role: "Yapay Zeka Mühendisliği Öğrencisi & Araştırmacı"
