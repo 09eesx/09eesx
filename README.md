@@ -10,9 +10,6 @@ esma:
   hobbies: [Yeni Teknolojiler Keşfetmek, Bilimsel Araştırma]
   motto: "Veriyi anlamlandırmak, geleceği inşa etmektir."
 
-
-# Merhaba, Ben Esma! 👋
-
 ### 🧠 Yapay Zeka Mühendisliği | Araştırmacı & Geliştirici
 
 Yapay zeka disiplinini sadece kodlama değil, karmaşık sistemlerin analizi ve anlamlandırılması olarak görüyorum. **Açıklanabilir AI (XAI)**, **Multi-Agent Sistemler** ve **Pekiştirmeli Öğrenme** üzerine odaklanırken, akademik araştırmayı endüstriyel çözümlerle birleştirmeyi hedefliyorum. 
@@ -47,6 +44,18 @@ Yapay zeka disiplinini sadece kodlama değil, karmaşık sistemlerin analizi ve 
 | **Infrastructure** | `Docker`, `Git`, `Postman` 
 
 ---
+
+Software & Infrastructure
+<p align="left">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="dotnet" />
+</p>
+
 
 ### 📫 Bağlantıda Kalalım
 
