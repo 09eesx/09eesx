@@ -70,9 +70,9 @@ Yapay zekayı yalnızca kod yazmak değil, **karmaşık sistemleri analiz edip a
 
 📊 GitHub İstatistikleri (Statik & Hızlı)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=09eesx&show_icons=true&theme=nord&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=09eesx&theme=nord_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09eesx&layout=compact&theme=nord&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=09eesx&theme=nord_dark" />
 
 </p>
 
