@@ -78,7 +78,7 @@ Yapay zekayı yalnızca kod yazmak değil, **karmaşık sistemleri analiz edip a
 
 🐍 GitHub Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/09eesx/09eesx/output/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/09eesx/09eesx/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 📫 Bağlantıda Kalalım
