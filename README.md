@@ -1,16 +1,51 @@
-## Hi there 👋
+# Merhaba, Ben Esma! 👋
 
-<!--
-**09eesx/09eesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Yapay Zeka Mühendisliği | Araştırmacı & Geliştirici
 
-Here are some ideas to get you started:
+Yapay zeka disiplinini sadece kodlama değil, karmaşık sistemlerin analizi ve anlamlandırılması olarak görüyorum. **Açıklanabilir AI (XAI)**, **Multi-Agent Sistemler** ve **Pekiştirmeli Öğrenme** üzerine odaklanırken, akademik araştırmayı endüstriyel çözümlerle birleştirmeyi hedefliyorum. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Özellikle psikolojik risk analizi ve tıbbi veri setleri gibi toplumsal fayda odaklı projeler üzerinde çalışmaktan heyecan duyuyorum.
+
+---
+
+### 🚀 Teknik Uzmanlık Alanları
+
+#### **AI & Makine Öğrenmesi**
+- **Derin Öğrenme & RL:** Sinir ağları tasarımı ve ajan tabanlı öğrenme süreçleri.
+- **Doğal Dil İşleme (NLP):** LangChain ile LLM entegrasyonları ve akıllı ajan mimarileri.
+- **Görüntü İşleme:** Medikal görüntüleme ve nesne tespiti üzerine çalışmalar.
+- **XAI:** Karar verme süreçlerini şeffaflaştıran açıklanabilir algoritmalar.
+
+#### **Veri Bilimi & Analizi**
+- Veri manipülasyonu ve analizi için: `Pandas`, `NumPy`.
+- Veri görselleştirme ve raporlama: `Matplotlib`, `Seaborn`, `GeoPandas`.
+- İstatistiksel modelleme ve öngörücü analitik.
+
+---
+
+### 🛠️ Teknoloji Yığını
+
+| Kategori | Araçlar ve Diller |
+| :--- | :--- |
+| **Programlama** | `Python (Expert)`, `C#`, `C++`, `MATLAB` |
+| **Yapay Zeka** | `PyTorch`, `Scikit-learn`, `LangChain`, `OpenCV` |
+| **Veri & DB** | `PostgreSQL`, `SQL Server`, `Oracle`, `NoSQL` |
+| **Modern Web** | `Next.js`, `React`, `HTML5`, `CSS3` |
+| **Infrastructure** | `Docker`, `Git`, `Postman` 
+---
+
+### 📈 GitHub Vizyonu
+
+![Esma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=09eesx&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09eesx&layout=compact&theme=nord)
+
+---
+
+### 📫 Bağlantıda Kalalım
+
+Araştırma odaklı projeler, multi-agent sistemler veya yeni teknolojiler hakkında fikir alışverişi yapmak için her zaman hazırım.
+
+- 💼 [LinkedIn Profilin](www.linkedin.com/in/esmaelifsucerit)
+- 📝 [Medium / Blog]([https://medium.com/@esma-linki](https://medium.com/@ceritesmaelifsu))
+- 📧 [E-posta](mailto:ceritesmaelifsu@gmail.com)
+
