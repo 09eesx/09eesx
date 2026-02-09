@@ -32,12 +32,6 @@ Yapay zeka disiplinini sadece kodlama değil, karmaşık sistemlerin analizi ve 
 | **Veri & DB** | `PostgreSQL`, `SQL Server`, `Oracle`, `NoSQL` |
 | **Modern Web** | `Next.js`, `React`, `HTML5`, `CSS3` |
 | **Infrastructure** | `Docker`, `Git`, `Postman` 
----
-
-### 📈 GitHub Vizyonu
-
-![Esma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=09eesx&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09eesx&layout=compact&theme=nord)
 
 ---
 
