@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Merhaba,%20Ben%20Esma!%20🚀&fontSize=50&animation=fadeIn" />
+</p>
+
+```yaml
+esma:
+  role: "Yapay Zeka Mühendisliği Öğrencisi & Araştırmacı"
+  focus_areas: [LLM, Computer Vision, Medical AI, Deep Learning]
+  specialties: [Multi-Agent Systems, XAI, Reinforcement Learning]
+  hobbies: [Yeni Teknolojiler Keşfetmek, Bilimsel Araştırma]
+  motto: "Veriyi anlamlandırmak, geleceği inşa etmektir."
+
+
 # Merhaba, Ben Esma! 👋
 
 ### 🧠 Yapay Zeka Mühendisliği | Araştırmacı & Geliştirici
