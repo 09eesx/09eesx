@@ -56,6 +56,27 @@ Software & Infrastructure
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="dotnet" />
 </p>
 
+### GitHub İstatistikleri (Nord Theme)
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D09eesx%26show_icons%3Dtrue%26theme%3Dnord%26count_private%3Dtrue" alt="Esma's Stats" />
+
+###🐍 GitHub Contribution Snake
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/09eesx/09eesx/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+###📫 İletişim & Sosyal Medya
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/LINKIN_BURAYA"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="mailto:MAIL_ADRESIN"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dgradient%26height%3D30%26section%3Dfooter" />
+</p>
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D09eesx%26layout%3Dcompact%26theme%3Dnord" alt="Top Languages" />
+</p>
 
 ### 📫 Bağlantıda Kalalım
 
