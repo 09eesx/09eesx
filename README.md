@@ -75,11 +75,7 @@ Yapay zekayı yalnızca kod yazmak değil, **karmaşık sistemleri analiz edip a
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=09eesx&theme=nord_dark" />
 
 </p>
-
-🐍 GitHub Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/09eesx/09eesx/output/github-contribution-grid-snake.svg" />
-</p>
+---
 
 ## 📫 Bağlantıda Kalalım
 
